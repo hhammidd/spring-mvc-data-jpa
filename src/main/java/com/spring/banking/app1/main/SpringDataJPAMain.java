@@ -1,9 +1,6 @@
-package hu.daniel.hari.learn.spring.orm.main;
+package com.spring.banking.app1.main;
 
-import hu.daniel.hari.learn.spring.orm.model.Product;
-import hu.daniel.hari.learn.spring.orm.service.ProductService;
-
-import java.util.Arrays;
+import com.spring.banking.app1.service.ProductService;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

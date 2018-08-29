@@ -1,4 +1,4 @@
-package hu.daniel.hari.learn.spring.orm.model;
+package com.spring.banking.app1.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

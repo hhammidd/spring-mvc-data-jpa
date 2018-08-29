@@ -1,13 +1,14 @@
-package hu.daniel.hari.learn.spring.orm.service;
+package com.spring.banking.app1.service;
 
-import hu.daniel.hari.learn.spring.orm.model.Product;
-import hu.daniel.hari.learn.spring.orm.repository.ProductRepository;
+import com.spring.banking.app1.model.Product;
+import com.spring.banking.app1.repository.ProductRepository;
 
 import java.util.Collection;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /** 

@@ -1,6 +1,6 @@
-package hu.daniel.hari.learn.spring.orm.repository;
+package com.spring.banking.app1.repository;
 
-import hu.daniel.hari.learn.spring.orm.model.Product;
+import com.spring.banking.app1.model.Product;
 
 import java.util.List;
 

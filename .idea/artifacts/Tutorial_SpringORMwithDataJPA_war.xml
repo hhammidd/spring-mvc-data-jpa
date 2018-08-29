@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tutorial-SpringORMwithDataJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Tutorial-SpringORMwithDataJPA-1.0.war">
+      <element id="artifact" artifact-name="Tutorial-SpringORMwithDataJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
